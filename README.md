@@ -6,7 +6,7 @@
 
 Repositorio para pruebas `2CFSN`
 
-hola
+hola amigo como estas
 
 > Nota: Anotacion
 
